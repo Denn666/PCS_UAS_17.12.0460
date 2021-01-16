@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="#fff"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/upcoming"
+        android:title="Selanjutnya"
+        android:icon="@drawable/ic_time"
+        app:cnb_backgroundColor="#FE813B"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        />
+
+    <item
+        android:titleCondensed="#3E64C7"
+        android:title="Null1"
+        android:id="@+id/null1"
+        app:cnb_backgroundColor="#3E64C7"
+        app:cnb_iconColor="#3E64C7"
+        app:cnb_textColor="#3E64C7"
+        />
+    <item
+        android:id="@+id/home"
+        android:title="Riwayat"
+        android:icon="@drawable/ic_home"
+        app:cnb_backgroundColor="#FE813B"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        />
+
+    <item
+        android:titleCondensed="#3E64C7"
+        android:title="Null2"
+        android:id="@+id/null2"
+        app:cnb_backgroundColor="#3E64C7"
+        app:cnb_iconColor="#3E64C7"
+        app:cnb_textColor="#3E64C7"
+        />
+    <item
+        android:id="@+id/favorite"
+        android:title="Favorit"
+        android:icon="@drawable/ic_favorite"
+        app:cnb_backgroundColor="#FE813B"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        />
+
+
+
+</menu>
